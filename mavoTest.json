@@ -4,7 +4,7 @@
 	"tracker": "images/tracker.png",
 	"energy-hd": "How you used energy",
 	"energy-body": [
-		"Your highest category so far this period is heating, which may be due to cooler weather",
+		"Your highest category so far this period is heating.",
 		"This is the cost of getting energy to your home"
 	]
 }
