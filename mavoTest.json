@@ -6,5 +6,21 @@
 	"energy-body": [
 		"Your highest category so far this period is heating, which may be due to cooler weather.",
 		"This is the cost of getting energy to your home"
-	]
+	],
+	"supply-hd": "Supply Charge $14.55",
+	"supply-perday": "($0.97 per day)",
+	"supply-body": "This is the cost of getting energy to your home",
+	"cat-link": "Read more on all categories",
+	"profile-body": "Help make this more personalised",
+	"profile-link": "Update your home profile",
+	"tips-hd": "Focus on heating",
+	"tips-sub": "Don’t let the warm air out",
+	"tips-body": "Close curtains, shades and blinds at night and when nobody will be home during the day to prevent warm air from escaping.",
+	"what-hd": "What you should know",
+	"weather-insight": "The daily average temperature was 4C° cooler this period then last period",
+	"time-insight": "70% of your usage was in the coolest part of the day",
+	"similiar-insight": "You used 44% more energy on heating then similiar homes",
+	"email-why": "Your receiving this email as part of a trial to show customers how they use energy in their homes. If you don’t want to receive this email",
+	"email-why-link": "unsubscribe now",
+	"email-sent": "This email was sent by AGL, if you have any concerns or questions please contact us:"
 }
