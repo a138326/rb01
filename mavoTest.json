@@ -1,0 +1,10 @@
+{
+	"intro-hd": "Your mid bill usage update",
+	"intro-body": "Hi Jamie, here's how you're tracking with electricity usage at 53 King St.",
+	"tracker": "images/tracker.png",
+	"energy-hd": "How you used energy",
+	"energy-body": [
+		"Your highest category so far this period is heating, which may be due to cooler weather",
+		"This is the cost of getting energy to your home"
+	]
+}
